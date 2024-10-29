@@ -3,6 +3,8 @@
 - 🌱 actualmente estoy aprendiendo programacion.
 - 💞️ colaboro en intentar dejar un mundo mejor tras de mi.
 - [:mailbox:](4775082@alu.murciaeduca.es)  mi correo electronico es 4775082@alu.murciaeduca.es
+- <a href=»mailto:4775082@alu.murciaeduca.es?
+Subject=Asunto%20del%20mail»>escribeme</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
