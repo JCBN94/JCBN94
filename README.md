@@ -2,8 +2,8 @@
 - 👀 Me interesa disfrutar de la vida, ser feliz y vivir tranquilo. 
 - 🌱 actualmente estoy aprendiendo programacion.
 - 💞️ colaboro en intentar dejar un mundo mejor tras de mi.
-- [:mailbox:](4775082@alu.murciaeduca.es)  mi correo electronico es 4775082@alu.murciaeduca.es
-- <a href=»mailto:4775082@alu.murciaeduca.es?</a>
+- <a>[:mailbox:](4775082@alu.murciaeduca.es)  mi correo electronico es 4775082@alu.murciaeduca.es
+-  href=»mailto:4775082@alu.murciaeduca.es?</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
