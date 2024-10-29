@@ -3,8 +3,7 @@
 - 🌱 actualmente estoy aprendiendo programacion.
 - 💞️ colaboro en intentar dejar un mundo mejor tras de mi.
 - :mailbox: mi correo electronico es 4775082@alu.murciaeduca.es
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 JCBN94/JCBN94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
