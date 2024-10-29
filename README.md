@@ -2,7 +2,7 @@
 - 👀 Me interesa disfrutar de la vida, ser feliz y vivir tranquilo. 
 - 🌱 actualmente estoy aprendiendo programacion.
 - 💞️ colaboro en intentar dejar un mundo mejor tras de mi.
-- (!)[📫] (4775082@alu.murciaeduca.es)  pincha el emoji para mi correo electronico
+- [:mailbox:] (4775082@alu.murciaeduca.es)  pincha el emoji para mi correo electronico
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
