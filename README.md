@@ -1,7 +1,7 @@
  👋 Hola soy Jose Carlos Barberán Neila  
  👀 Me interesa disfrutar de la vida, ser feliz y vivir tranquilo.  
  🌱 Actualmente estoy aprendiendo programación. a través de [murciaeduca](https://ead.murciaeduca.es/)
- Impartido por [La Conservera](https://sites.google.com/view/fplaconservera) En el centro de ceutí ![centro](https://i.postimg.cc/Z5YXNL6G/los-albares.jpg)  
+ Impartido por [La Conservera](https://sites.google.com/view/fplaconservera) En el centro de ceutí [centro](https://i.postimg.cc/Z5YXNL6G/los-albares.jpg)  
  💞️ colaboro en intentar dejar un mundo mejor tras de mí.  
  :mailbox: mi correo electrónico es 4775082@alu.murciaeduca.es  
 
