@@ -1,4 +1,4 @@
- 👋 Hola soy **Jose Carlos Barberán Neila**  
+ # 👋 Hola soy **Jose Carlos Barberán Neila** #  
  👀 Me interesa disfrutar de la vida, ser feliz y vivir tranquilo.  
  🌱 Actualmente estoy aprendiendo **programación** a través de [murciaeduca](https://ead.murciaeduca.es/)
  Impartido por [La Conservera](https://sites.google.com/view/fplaconservera) En el centro de ceutí [Los Albares](https://www.ieslosalbares.es/)  
@@ -17,7 +17,7 @@
 - ### **META DE ESTUDIOS** 🤖
  Ser el número 1 en **ingeniería robótica** para crear *androides* que parezcan **100% humanos** tanto *físicamente* como *intelectualmente* en este campo mi empresa esta detrás de la multinacional [Red Ribbon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdragonball.fandom.com%2Fes%2Fwiki%2FEj%25C3%25A9rcito_del_List%25C3%25B3n_Rojo&psig=AOvVaw3UYZTFGVlWfcBzmjtmnKIt&ust=1730357557719000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjW4LLCtYkDFQAAAAAdAAAAABAE)
 - ### ***TRABAJO IDEAL*** 🤑
- ***Me gustaría trabajan creando los mejores androides,*** pues como comente crecí en una casa en el campo lejos de la civilización y crecí sin relacionarme prácticamente solo con mis familiares y amigos de la familia ... Para evitar esto a otros niños y adultos quiero lograr crear androides tan perfectos que podamos crecer y relacionarlos mutuamente logrando erradicar la soledad en el mundo.
+ ***Me gustaría trabajar creando los mejores androides,*** pues como comente crecí en una casa en el campo lejos de la civilización y crecí sin relacionarme prácticamente solo con mis familiares y amigos de la familia ... Para evitar esto a otros niños y adultos quiero lograr crear androides tan perfectos que podamos crecer y relacionarlos mutuamente logrando erradicar la soledad en el mundo.
 
 
 <!---
