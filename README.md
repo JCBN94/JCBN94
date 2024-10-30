@@ -16,6 +16,7 @@
 -   ### **META DE ESTUDIOS** 🤖
 -   Ser el numero 1 en ingenieria robotica para crear androides que parezcan 100% humanos tanto fisicamente como intelectualmente en este campo mi empresa esta detras de la multinacional [Red Ribbon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdragonball.fandom.com%2Fes%2Fwiki%2FEj%25C3%25A9rcito_del_List%25C3%25B3n_Rojo&psig=AOvVaw3UYZTFGVlWfcBzmjtmnKIt&ust=1730357557719000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjW4LLCtYkDFQAAAAAdAAAAABAE)
 -   ### ***TRABAJO IDEAL*** 🤑
+-   Me gustaria trabajan creando los mejores andorides pues como comente creci en una casa en el campo lejos de la civilizacion y creci sin relacionarme practicamente solo con mis familiares y amigos de la familia ... para evitar esto a otros niños y adultos quiero lograr crear androides tan perfectos que podamos crecer y relacionarlos mutuamente logrando erradicar la soledad en el mundo.
 
 
 <!---
