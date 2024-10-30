@@ -4,7 +4,12 @@
 - Impartido por [La Conservera](https://sites.google.com/view/fplaconservera) En el centro de ceutí ![centro](https://i.postimg.cc/Z5YXNL6G/los-albares.jpg)
 - 💞️ colaboro en intentar dejar un mundo mejor tras de mi.
 - :mailbox: mi correo electronico es 4775082@alu.murciaeduca.es
-- [logo.png](https://postimg.cc/1g6BTHj1)
+
+-   ### **ESTUDIOS ACTUALES** 👨‍🎓
+-   ### **TRABAJO ACTUAL** 👨‍💼
+-   ### **META DE ESTUDIOS** 🤖
+-   ### ***TRABAJO IDEAL*** 🤑
+- ![logo.png](https://postimg.cc/1g6BTHj1)
 
 <!---
 JCBN94/JCBN94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
