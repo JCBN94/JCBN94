@@ -5,33 +5,43 @@
  💞️ colaboro en intentar dejar un mundo mejor tras de mí.  
  :mailbox: mi correo electrónico es 4775082@alu.murciaeduca.es  
 
-
-- ### <ins> **ORÍGENES** 🏡 </ins>  
+### <ins> **ORÍGENES** 🏡 </ins>  
  nací en un pequeño pueblo en **439 East District** está a unos 1000 km de la ciudad principal **Satan city** por este motivo soy una persona autosuficiente.
 
-- ### <ins> **ESTUDIOS ACTUALES** 👨‍🎓 </ins>  
+### <ins> **ESTUDIOS ACTUALES** 👨‍🎓 </ins>  
+
  Soy una persona **autodidacta**, pues vivía en una montaña alejado de la civilización por este motivo tengo muchos más conocimientos que titulaciones adquiridas actualmente.  
 Mis **titulaciones** son:  
 | ![Static Badge](https://img.shields.io/badge/Ruby%20-%20black?logo=Ruby&logoColor=red) | ![Static Badge](https://img.shields.io/badge/html5-%20white?logo=html5&logoColor=orange) | ![Static Badge](https://img.shields.io/badge/javascript%20-%20yellow?logo=javascript&logoColor=black) | ![Static Badge](https://img.shields.io/badge/kalilinux%20-%20blue?logo=kalilinux&logoColor=white) 
 | --- | --- | --- | --- | 
 | ![Static Badge](https://img.shields.io/badge/mysql%20-%20blue?logo=mysql&logoColor=white) | ![Static Badge](https://img.shields.io/badge/c%2B%2B%20-%20red?logo=cplusplus&logoColor=white) | ![Static Badge](https://img.shields.io/badge/squareenix%20-%20black?logo=squareenix&logoColor=white) | ![Static Badge](https://img.shields.io/badge/angular%20-red%20?logo=angular&logoColor=white)  
 ---
- **ACTUALMENTE ESTOY CURSANDO:** 
+
+ ***ACTUALMENTE ESTOY CURSANDO:*** 
   
 - **BASE DE DATOS**
 - **LENGUAJE DE MARCAS**
 - **ENTORNOS DE DESARROLLO PROGRAMACIÓN** 
 - **SISTEMAS INFORMATICOS**
 - **DIGITALIZACIÓN APLICADA A SECTORES PRODUCTIVOS**
-- **ITINERARIO PERSONAL PARA LA EMPLEABILIDAD I**
-- **INGLES PROFESIONAL** 
+- ~~**ITINERARIO PERSONAL PARA LA EMPLEABILIDAD I**~~
+- ~~**INGLES PROFESIONAL**~~ 
+ ---
  
-- ### <ins> **TRABAJO ACTUAL** 👨‍💼 </ins>  
+### <ins> **TRABAJO ACTUAL** 👨‍💼 </ins>
+  
  Debido a que no tengo muchas titulaciones oficiales obtuve mi trabajo gracias a los contactos de mi padre y trabajo en <img src="https://e7.pngegg.com/pngimages/136/911/png-clipart-logo-brand-emblem-hoi-poi-kapsula-capsule-corp-emblem-logo.png" alt="33" width="33" /> Estoy a gusto en mi trabajo, pues gracias a lo estudioso que soy logre ascender rápidamente en la empresa en cuanto a responsabilidades, pero no de igual manera en salario, pues no tengo la titulación para acreditarlo 😢 Pese a ello no cambiaria de empresa.
-- ### <ins> **META DE ESTUDIOS** 🤖</ins>  
- Ser el número 1 en **ingeniería robótica** para crear *androides* que parezcan **100% humanos** tanto *físicamente* como *intelectualmente* en este campo mi empresa esta detrás de la multinacional <img src="https://static.wikia.nocookie.net/dragonball/images/8/89/Insignia_del_List%C3%B3n_Rojo_Kakarot.png/revision/latest/thumbnail/width/360/height/360?cb=20200327134109&path-prefix=es" alt="33" width="33" /> 
-- ### <ins> ***TRABAJO IDEAL*** 🤑 </ins>  
+ 
+### <ins> **META DE ESTUDIOS** 🤖</ins>
+   
+ Ser el número 1 en **ingeniería robótica** para crear *androides* que parezcan **100% humanos** tanto *físicamente* como *intelectualmente* en este campo mi empresa esta detrás de la multinacional <img src="https://static.wikia.nocookie.net/dragonball/images/8/89/Insignia_del_List%C3%B3n_Rojo_Kakarot.png/revision/latest/thumbnail/width/360/height/360?cb=20200327134109&path-prefix=es" alt="33" width="33" />
+ 
+ <img src="https://go4it.solutions/sites/default/files/2024-05/01.01.%20Lenguajes%20de%20programaci%C3%B3n%20que%20quedar%C3%A1n%20obsoletos%20en%202024.jpg" alt="500" width="800" />
+ 
+### <ins> ***TRABAJO IDEAL*** 🤑 </ins>  
+
  ***Me gustaría trabajar creando los mejores androides,*** pues como comente crecí en una casa en el campo lejos de la civilización y crecí sin relacionarme prácticamente solo con mis familiares y amigos de la familia ... Para evitar esto a otros niños y adultos quiero lograr crear androides tan perfectos que podamos crecer y relacionarlos mutuamente logrando erradicar la soledad en el mundo.
+ 
 
 
 <!---
