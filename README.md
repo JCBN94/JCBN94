@@ -1,4 +1,4 @@
- # 👋 Hola soy **Jose Carlos Barberán Neila** #  
+# 👋 Hola soy **Jose Carlos Barberán Neila** #  
  👀 Me interesa disfrutar de la vida, ser feliz y vivir tranquilo.  
  🌱 Actualmente estoy aprendiendo **[Tecnico superior en desarrollo de aplicaciones multiplataforma](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)** a través de [murciaeduca](https://ead.murciaeduca.es/)
  Impartido por [La Conservera](https://sites.google.com/view/fplaconservera) En el centro de ceutí [Los Albares](https://www.ieslosalbares.es/)  
