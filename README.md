@@ -11,7 +11,8 @@
 
 - ### <ins> **ESTUDIOS ACTUALES** 👨‍🎓 </ins>  
  Soy una persona **autodidacta**, pues vivía en una montaña alejado de la civilización por este motivo tengo muchos más conocimientos que titulaciones adquiridas actualmente.  
-Mis **titulaciones** son:
+Mis **titulaciones** son:  
+![Static Badge](https://img.shields.io/badge/Ruby%20-%20black?logo=Ruby&logoColor=red) ![Static Badge](https://img.shields.io/badge/html5-%20white?logo=html5&logoColor=orange)
 
 - ### <ins> **TRABAJO ACTUAL** 👨‍💼 </ins>  
  Debido a que no tengo muchas titulaciones oficiales obtuve mi trabajo gracias a los contactos de mi padre y trabajo en <img src="https://e7.pngegg.com/pngimages/136/911/png-clipart-logo-brand-emblem-hoi-poi-kapsula-capsule-corp-emblem-logo.png" alt="25" width="25" /> Estoy a gusto en mi trabajo, pues gracias a lo estudioso que soy logre ascender rápidamente en la empresa en cuanto a responsabilidades, pero no de igual manera en salario, pues no tengo la titulación para acreditarlo 😢 Pese a ello no cambiaria de empresa.
