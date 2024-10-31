@@ -14,9 +14,18 @@
 Mis **titulaciones** son:  
 | ![Static Badge](https://img.shields.io/badge/Ruby%20-%20black?logo=Ruby&logoColor=red) | ![Static Badge](https://img.shields.io/badge/html5-%20white?logo=html5&logoColor=orange) | ![Static Badge](https://img.shields.io/badge/javascript%20-%20yellow?logo=javascript&logoColor=black) | ![Static Badge](https://img.shields.io/badge/kalilinux%20-%20blue?logo=kalilinux&logoColor=white) 
 | --- | --- | --- | --- | 
-| ![Static Badge](https://img.shields.io/badge/mysql%20-%20blue?logo=mysql&logoColor=white) | ![Static Badge](https://img.shields.io/badge/c%2B%2B%20-%20red?logo=cplusplus&logoColor=white) | ![Static Badge](https://img.shields.io/badge/squareenix%20-%20black?logo=squareenix&logoColor=white) | ![Static Badge](https://img.shields.io/badge/angular%20-red%20?logo=angular&logoColor=white)
+| ![Static Badge](https://img.shields.io/badge/mysql%20-%20blue?logo=mysql&logoColor=white) | ![Static Badge](https://img.shields.io/badge/c%2B%2B%20-%20red?logo=cplusplus&logoColor=white) | ![Static Badge](https://img.shields.io/badge/squareenix%20-%20black?logo=squareenix&logoColor=white) | ![Static Badge](https://img.shields.io/badge/angular%20-red%20?logo=angular&logoColor=white)  
+---
+ **ACTUALMENTE ESTOY CURSANDO:** 
+  
+- **BASE DE DATOS**
+- **LENGUAJE DE MARCAS**
+- **ENTORNOS DE DESARROLLO PROGRAMACIÓN** 
+- **SISTEMAS INFORMATICOS**
+- **DIGITALIZACIÓN APLICADA A SECTORES PRODUCTIVOS**
+- **ITINERARIO PERSONAL PARA LA EMPLEABILIDAD I**
+- **INGLES PROFESIONAL** 
  
-
 - ### <ins> **TRABAJO ACTUAL** 👨‍💼 </ins>  
  Debido a que no tengo muchas titulaciones oficiales obtuve mi trabajo gracias a los contactos de mi padre y trabajo en <img src="https://e7.pngegg.com/pngimages/136/911/png-clipart-logo-brand-emblem-hoi-poi-kapsula-capsule-corp-emblem-logo.png" alt="33" width="33" /> Estoy a gusto en mi trabajo, pues gracias a lo estudioso que soy logre ascender rápidamente en la empresa en cuanto a responsabilidades, pero no de igual manera en salario, pues no tengo la titulación para acreditarlo 😢 Pese a ello no cambiaria de empresa.
 - ### <ins> **META DE ESTUDIOS** 🤖</ins>  
